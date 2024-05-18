@@ -51,3 +51,7 @@ Using /.env.sample, you can set correct environment variables in your .env file 
 ## 🤝 Contributing & Community
 
 You can contribute in a number of ways. If you have questions or would like to discuss the future development of SaasVite, please join us on [JSBenin discord server](https://discord.gg/QedpWgYK) or create a GitHub issue. It's always a good idea to chat with us before embarking on a big pull request to ensure your developments align with the goals of the project. You call also contact this person: [@monlasan](https://twitter.com/monla_san).
+
+## 🧾 License
+
+Saasvite is licensed under the MIT License.
